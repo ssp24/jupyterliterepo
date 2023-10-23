@@ -1,8 +1,8 @@
-# JupyterLite Demo
+# JupyterLite 
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ssp24.github.io/jupyterliterepo/)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+
 
 ## ✨ Try it in your browser ✨
 
@@ -21,9 +21,3 @@ JupyterLite is being tested against modern web browsers:
 
 Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
 
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
